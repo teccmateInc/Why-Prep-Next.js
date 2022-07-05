@@ -1,0 +1,962 @@
+{
+  "common": {
+    "header": {
+      "product": {
+        "main": "Product",
+        "channel": {
+          "main": "Sell Online and Offline",
+          "store": "Online Store",
+          "checkout": "Checkout",
+          "social_media": "Social Media",
+          "solution": "All Solution"
+        },
+        "marketing": {
+          "main": "Attract More Customers",
+          "marketing": "Marketing",
+          "loyalty": "Loyalty Program",
+          "message": "Messages",
+          "photo": "Product Photography"
+        },
+        "infoproduct": {
+          "main": "Improve Your Store",
+          "domain": "Domain/Web Address",
+          "theme": "Store Template"
+        }
+      },
+      "why": "Why Prep?",
+      "pricing": "Pricing",
+      "blog": "Blog",
+      "contact": "Contact",
+      "login": "Login"
+    },
+    "applynow": {
+      "main": "Apply for an account in mintues",
+      "sub": "Get your PREP account today!",
+      "button": "Get your account"
+    },
+    "footer": {
+      "sologan": "Ecommerce Possible For Everyone",
+      "contactus": "Contact Us",
+      "company": {
+        "main": "Company",
+        "aboutus": "About Us",
+        "service": "Service",
+        "features": "Features",
+        "pricing": "Our Pricing",
+        "news": "Latest News"
+      },
+      "product": {
+        "main": "Product",
+        "online-store": "Online Store",
+        "checkout": "Check out",
+        "social-media": "Social Media",
+        "template": "Template Store",
+        "domain": "Domain",
+        "market": "Marketing Solution",
+        "loyal": "Loyalty Program",
+        "message": "Message",
+        "photo": "Product Photography"
+      },
+      "support": {
+        "main": "Support",
+        "faq": "FAQ's",
+        "policy": "Privacy Policy",
+        "term": "Term of Service",
+        "refund": "Sales and Refund",
+        "community": "Community",
+        "contact": "Contact Us"
+      },
+      "address": {
+        "main": "Address",
+        "location": {
+          "main": "Location",
+          "body": "58/22 Salaya Phuttamonthon Nakhonpathom"
+        },
+        "email": {
+          "main": "Email",
+          "body": "prepofficial@prepth.com"
+        },
+        "phone": {
+          "main": "Phone",
+          "body": "095-463-9422"
+        }
+      }
+    }
+  },
+  "home": {
+    "mainbanner": {
+      "main": "Fast and Easy Commerce Solution",
+      "sub": "Get the online and offline stores to start, build and grow your business.",
+      "button": "Create Your Account"
+    },
+    "feature": {
+      "left": {
+        "main": "No Sale No Fee",
+        "sub": "Free Account Available"
+      },
+      "middle": {
+        "main": "2 Minutes",
+        "sub": "Apply For Account"
+      },
+      "right": {
+        "main": "24/7",
+        "sub": "Customer Service"
+      },
+      "app": {
+        "ios": {
+          "main": "Download on",
+          "sub": "App Store"
+        },
+        "andriod": {
+          "main": "Download on",
+          "sub": "Google Play"
+        }
+      }
+    },
+    "firstbanner": {
+      "main": "Start earn more sales in online",
+      "sub": "Online based business \"Build Your Own Store\" new opportunity for independent worker, unemployed or seek to earn extra income.",
+      "a": "Free Plan Availabe",
+      "b": "Full Data Privacy Compliance",
+      "c": "100% Transparent Cost",
+      "d": "Commitment-Free",
+      "e": "Real-Time Spending Overview",
+      "f": "Debit/Credit Card Included"
+    },
+    "secondbanner": {
+      "main": "Small to medium-sized businesses",
+      "sub": "Building your own brand identity with our ecommerce platform with a website solution easy to build and manage.",
+      "a": "Easy Transfer Deposit",
+      "b": "Deposit Checks Instantly",
+      "c": "A Powerful Open API",
+      "d": "Coverage Around The World",
+      "e": "Business Without Borders",
+      "f": "Affiliate and Partnerships"
+    },
+    "thirdbanner": {
+      "main": "Large or enterprise level business",
+      "sub": "Prep system handles everything from marketing and payments. We have a broad set of flexible tools with secure system perfect for large company with small employee gruops.",
+      "a": "Corporate Cards",
+      "b": "International payment",
+      "c": "Automated Accounting",
+      "d": "Request Feature",
+      "e": "Premium Support",
+      "f": "Direct Debit"
+    },
+    "forthbanner": {
+      "main": "Our Features",
+      "sub": "Tool kits to keep you moving forward.",
+      "a": {
+        "main": "Incredible Infrastructure",
+        "body": "With our optimized scaling application and Infrastructure allow sellers to gain customers and sales as many as they grow "
+      },
+      "b": {
+        "main": "App Notifications",
+        "body": "Notification is inconvenient in website,so Prep has a mobile application that will inform everything happened with your business"
+      },
+      "c": {
+        "main": "Simple Dashboard",
+        "body": "You never know how well your business is performing without a good dashboard, but Prep only has a great dashboard "
+      },
+      "d": {
+        "main": "Information Retrieval",
+        "body": "Seminar, Online Class, How To and a lot more about business information to get your success down the road"
+      },
+      "e": {
+        "main": "Drag and Drop Functionality",
+        "body": "No need for desingers, programmers or complication. We only drag and drop to get a beautiful online store"
+      },
+      "f": {
+        "main": "Inventory Reminders",
+        "body": "Our sellers keep the sale rolling by Prep ensures they never run out of stock again without knowing"
+      }
+    },
+    "fifthbanner": {
+      "main": "Easy Payment to Borrow Free Get A Better Filling At Home",
+      "sub": "Payment system that supports all type of transaction to provide the most convenient method for fast and safe sales transfer.",
+      "button": "GET STARTED"
+    },
+    "sixthbanner": {
+      "main": "We Always try to understand customer expectation",
+      "sub": "Easy payment system, best marketing strategy, 24 hours track of your sales, And providing you with the best delivery service",
+      "a": "Download",
+      "b": "Feedback",
+      "c": "Workers",
+      "d": "Contributors",
+      "container": {
+        "main": "Have any questions about us?",
+        "sub": "Don't hesitate to contact us",
+        "button": "Contact"
+      }
+    }
+  },
+  "online-store": {
+    "firstbanner": {
+      "main": {
+        "a": "Sell in more ways",
+        "b": " with free online store"
+      },
+      "sub": "Selling online with your own e-commerce website has never easier, faster, or more scalable.",
+      "botton": "GET STARTED"
+    },
+    "secondbanner": {
+      "a": {
+        "main": "Free",
+        "sub": "Be in business now for free. Only pay when you make a sale-2.9%+30$ per transaction. Or move to a paid plan for more advaned features",
+        "botton": "Read More"
+      },
+      "b": {
+        "main": "Get Set Up Fast",
+        "sub": "You can create and publish your online store quickly. With the help of our site builder, you don’t need to know how to code. And your site will work well on any device.",
+        "botton": "Read More"
+      },
+      "c": {
+        "main": "Start selling online",
+        "sub": "Easily sell online and ship orders to customers, offer curbside pickup, or local delivery—no matter what type of business you have. Plus, sell on Instagram, Facebook, and more.",
+        "botton": "Read More"
+      },
+      "d": {
+        "main": "Safe and Secure",
+        "sub": "All online stores come with free and secured SSL encryption. Wire bank trasfer or Credit Card payment are all safe with Prep's online store system.",
+        "botton": "Read More"
+      }
+    },
+    "thirdbanner": {
+      "main": "Website solutions to fit",
+      "main2": "your business.",
+      "sub": {
+        "a": "Build your retail store online to start selling products fast. Create a restaurant website, take online orders and offer curbside pickup or delivery. Provide online appointment booking for services you may be delivering remotely. Even accept donations or membership fees",
+        "b": " online."
+      },
+      "a": "Get Started"
+    },
+    "forthbanner": {
+      "main": "Online Store Builder",
+      "sub": {
+        "a": "Choose from over 70 professionals and free store",
+        "b": " themes. Customize colors, imagery and font with",
+        "c": " ease. No design skill required."
+      },
+      "botton": "Browse Themes"
+    },
+    "fifthbanner": {
+      "main": "Comprehensive Dashboard",
+      "sub": {
+        "a": "Get a holistic and detailed view of your business to better understand sales, orders,",
+        "b": " and audience to better tailor your products and marketing. Available for both Web \n\n "
+      },
+      "center": "Browser and tablet Application",
+      "a": {
+        "main": "App & Feature Customization",
+        "body": {
+          "a": "To with a different type of business, Prep",
+          "b": " offers an ordered add-on software and app \n\n"
+        },
+        "center": "with a reasonable monthly price"
+      },
+      "b": {
+        "main": "Marketing made simple",
+        "body": {
+          "a": "With Prep's built-in SEO features,",
+          "b": " automated marketing, and free",
+          "c": "educational material you will always",
+          "d": "be one step ahead of the competition."
+        }
+      },
+      "c": {
+        "main": "Big Data=More Customer",
+        "body": {
+          "a": "Enhance the customer journey. Get focused on",
+          "b": " the results that actully matter! understand your",
+          "c": "customers and drive company growth through \n\n"
+        },
+        "center": "Prep data analysis"
+      },
+      "d": {
+        "main": "Notification for Mobile",
+        "body": {
+          "a": "Never miss a sale. Shopify’s",
+          "b": " inventory is synced across all your \n\n"
+        },
+        "center": " sales channels at all times."
+      }
+    },
+    "sixthbanner": {
+      "main": {
+        "a": "Don't have your own web",
+        "b": " address?"
+      },
+      "sub": "Get a custom domain from PREP starting only at 500Baht",
+      "botton": "Get Domain"
+    },
+    "seventhbanner": {
+      "main1": "Choose Your ",
+      "main2": "Package",
+      "sub": "Choose a plan that works best for you!",
+      "section1": {
+        "main": "Basic",
+        "price": "฿ 1500",
+        "duration": "/ monthly",
+        "sub": "Package for people who start doing business online for the first time.",
+        "a": {
+          "main": "Payment system via card and Paypal",
+          "sub": "Deduct 4.4% + 11 baht per time",
+          "body": "(If the customer pays via card, it will not be deducted with the fee.)"
+        },
+        "b": {
+          "main": "Fee",
+          "sub": "1.50 %"
+        },
+        "c": {
+          "main": "2 Staff Accounts"
+        },
+        "botton": "Choose this plan"
+      },
+      "section2": {
+        "main": "Standard",
+        "price": "฿ 4000",
+        "duration": "/ monthly",
+        "sub": "An online store for people with small businesses who want to expand their online store. Detailed business analysis system Easy business expansion plan",
+        "a": {
+          "main": "Payment system via card and Paypal",
+          "sub": "Deduct 4.4% + 11 baht per time",
+          "body": "(If the customer pays via card, it will not be deducted with the fee.)"
+        },
+        "b": {
+          "main": "Fee",
+          "sub": "1.00 %"
+        },
+        "c": {
+          "main": "5 Staff Accounts"
+        },
+        "botton": "Choose this plan"
+      },
+      "section3": {
+        "main": "Premium",
+        "price": "฿ 8000",
+        "duration": "/ monthly",
+        "sub": "Increase the convenience of delivery by using a self-service shipping system and an AI system to recommend products to help increase sales.",
+        "a": {
+          "main": "Payment system via card and Paypal",
+          "sub": "Deduct 4.4% + 11 baht per time",
+          "body": "(If the customer pays via card, it will not be deducted with the fee.)"
+        },
+        "b": {
+          "main": "Fee",
+          "sub": "0.50%"
+        },
+        "c": {
+          "main": "2 Staff Accounts"
+        },
+        "botton": "Choose this plan"
+      }
+    }
+  },
+  "check-out": {
+    "firstbanner": {
+      "main": {
+        "a": "Every shopper.",
+        "b": "Every sale.",
+        "c": "Every time."
+      },
+      "sub": "Prep Checkout is constantly optimized for speed, conversion, and customer experience–giving you the most powerful checkout in the world.",
+      "video": "Play Video"
+    },
+    "secondbanner": {
+      "main": "Seize every sale",
+      "sub": {
+        "a": "From first sale to flash sale and everything in between, be ready with",
+        "b": "a fast, friction-free checkout."
+      },
+      "a": "Accelerate conversion with Shop Pay",
+      "b": "Full data privacy compliance",
+      "c": "100% transparent costs",
+      "d": "Commitment-free",
+      "e": "Real-time spending overview",
+      "f": "Debit Mastercard included"
+    },
+    "thirdbanner": {
+      "main": "Our Features",
+      "a": {
+        "main1": "Perfect store for",
+        "main2": "every products",
+        "body": "You will be involved in all designing process with special visual characters."
+      },
+      "b": {
+        "main1": "Online Marketing",
+        "main2": "Systems",
+        "body": "All rounded Marketing & Branding process for you to manage and customize"
+      },
+      "c": {
+        "main1": "Notifications and",
+        "main2": "sales inspection",
+        "body": "We gather sales information track orders as well as marketing analysis and other data to run your business smoothly"
+      },
+      "d": {
+        "main1": "Link to all Online ",
+        "main2": "Payment system",
+        "body": "Variety of payment options.easy payment system for customer"
+      },
+      "e": {
+        "main1": "Your Brand Creation",
+        "body": "Create brand identity to reflect your personality and increase reputation of your business. easy access to different customer groups."
+      }
+    },
+    "forthbanner": {
+      "main": "Frequently Asked Questions",
+      "body": "",
+      "a": {
+        "main": "Which material types can you work with",
+        "body": ""
+      },
+      "b": {
+        "main": "Is Smart Lock required for instant apps?",
+        "body": ""
+      },
+      "c": {
+        "main": "Can I have multiple activities in a single feature?",
+        "body": ""
+      },
+      "d": {
+        "main": "Which material types can you work with?",
+        "body": ""
+      },
+      "e": {
+        "main": "Why Choose Our Services In Your Business?",
+        "body": ""
+      },
+      "f": {
+        "main": "How To Get Start With Us?",
+        "body": ""
+      },
+      "g": {
+        "main": "Why Choose Our Services In Your Business?",
+        "body": ""
+      }
+    }
+  },
+  "social-media": {
+    "firstbanner": {
+      "main": {
+        "a": "Get discovered on",
+        "b": "social media"
+      },
+      "body": {
+        "a": "Meet your customers where they are. See how you can connect products to popular social media platforms."
+      },
+      "link": "Get Started"
+    },
+    "secondbanner": {
+      "main": "Meet your customer online",
+      "sub": {
+        "a": "Link Your online store account to social media platforms.",
+        "b": "Connect to customer and promote your products"
+      },
+      "a": {
+        "main": "Sell products on Instagram",
+        "sub": {
+          "a": "Sell your products on Instagram and boost post",
+          "b": "vis advertisement campaigns"
+        }
+      },
+      "b": {
+        "main": "Engage with Facebook Posts",
+        "sub": {
+          "a": "Create custom email campaigns and discount promotions for Facebook right from your Prep Dashboard.",
+          "b": "vis advertisement campaigns"
+        }
+      },
+      "c": {
+        "main": "Direct Sale link on Social Posts",
+        "sub": {
+          "a": "Sales link allow customer to click and view your product checkout page and continue to payment page directly.",
+          "b": "vis advertisement campaigns"
+        }
+      },
+      "d": {
+        "main": "Boost Post engagement",
+        "sub": {
+          "a": "Create custom email campaigns and discount promotions for Facebook right from your Prep Dashboard.",
+          "b": "vis advertisement campaigns"
+        }
+      }
+    },
+    "thirdbanner": {
+      "main": "More social integrations with Prep Online.",
+      "a": {
+        "main": "Instagram",
+        "sub": "Easily turn your Instagram feed into an online shopping site, complete with checkout and payments from Square."
+      },
+      "b": {
+        "main": "Facebook",
+        "sub": "Connect your online store to your Facebook business account to create ad campaigns, sync your item library, and allow visitors to shop directly from Facebook."
+      },
+      "c": {
+        "main": "Google",
+        "sub": "Identify your business as a verified seller on Google and rank higher in their search results. (Custom website domain required)"
+      }
+    },
+    "forthbanner": {
+      "section1": {
+        "main": "Freelancers, entrepreneurs, and sole traders",
+        "sub": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "a": "Free plan available",
+        "b": "Full data privacy compliance",
+        "c": "100% transparent costs",
+        "d": "Commitment-free",
+        "e": "Real-time spending overview",
+        "f": "Debit Mastercard included"
+      },
+      "section2": {
+        "main": "Small to medium-sized businesses",
+        "sub": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "a": "Easy transfers",
+        "b": "Deposit checks instantly",
+        "c": "A powerful open API",
+        "d": "Coverage around the world",
+        "e": "Business without borders",
+        "f": "Affiliates and partnerships"
+      },
+      "section3": {
+        "main": "Large or enterprise level businesses",
+        "sub": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "a": "Corporate Cards",
+        "b": "International Payments",
+        "c": "Automated accounting",
+        "d": "Request Features",
+        "e": "Premium Support",
+        "f": "Direct Debit"
+      }
+    },
+    "fifthbanner": {
+      "main": "Connect Store to your Social Media Account"
+    },
+    "sixthbanner": {
+      "main": "Prep Makes your social media channels work together",
+      "sub": "Learn More About Prep Online"
+    },
+    "seventhbanner": {
+      "a": {
+        "main": "Reach Customer",
+        "sub": "Enhance your brand, open new revenue channels, and reach more customers by connecting your social media with Square."
+      },
+      "b": {
+        "main": "Sync Data",
+        "sub": "Sync all your customer data—contact info, payment methods, shopping history, and more—in the unified Customer Directory."
+      },
+      "c": {
+        "main": "Campaigns",
+        "sub": "Manage all your customer relationships, campaigns, and reporting from one centralized location on the Square Dashboard"
+      }
+    }
+  },
+  "all-solution": {
+    "firstbanner": {
+      "main": "Sell online with eCommerce tools for any business",
+      "sub": "No matter what business idea you’re developing—launching a new website, accepting restaurant orders online, selling on social media, or adding online payments to your current site—Prep eCommerce solutions can help.",
+      "link": "Create your account",
+      "botton": "Play Video"
+    }
+  },
+  "marketing": {
+    "firstbanner": {
+      "main": {
+        "a": "Grow your business ",
+        "b": "with Prep Marketing Programs"
+      }
+    },
+    "secondbanner": {
+      "body": "Learn More about prep marketing",
+      "botton": "Start Free Trial"
+    },
+    "thirdbanner": {
+      "main": "Create, send, and track email marketing campaigns in minutes",
+      "body": "With our email marketing software, you can easily design custom email, set up automated campaigns, and see how your marketing efforts affect your bottom line—right from your Square Dashboard."
+    },
+    "forthbanner": {
+      "main": "Now we're at your finger tips",
+      "body": "Send broadcast messages to customer easily within a few clicks."
+    },
+    "fifthbanner": {
+      "main": {
+        "a": "Target groups are",
+        "b": " created automatically"
+      },
+      "body": "Target email lists—like new customers, lapsed customers, and regular customers—are built for you, so you can easily tailor your campaigns to every audience."
+    },
+    "sixthbanner": {
+      "main": "Automated campaigns",
+      "sub": "Make your campaigns effortless. Send up recurring campaigns."
+    }
+  },
+  "loyalty": {
+    "firstbanner": {
+      "main": {
+        "a": "Turn Walk-in into",
+        "b": "repeat Business with",
+        "c": "Prep Loyalty Program"
+      },
+      "botton": "Start Free Trial"
+    },
+    "secondbanner": {
+      "main": "Introduce digital loyalty punch card experience",
+      "body": "provide a more personalized experience for each customer with a loyalty program"
+    },
+    "thirdbanner": {
+      "main": {
+        "a": "POS and online website links to your",
+        "b": "customer loyalty program "
+      },
+      "sub": {
+        "a": "Track sales and see the impact",
+        "b": "of Square Loyalty in one place"
+      },
+      "body": "View returning customer's points and reward history in a quick glance and provide a more personalized experience for each customer with a loyalty program."
+    },
+    "forthbanner": {
+      "main": "Increase Worldwide Customer Engagement",
+      "body": "Customers who enroll in a Prep Loyalty rewards program are twice as likely to be repeat customers and spend 37% more"
+    },
+    "fifthbanner": {
+      "main": {
+        "a": "What a Customer",
+        "b": "Loyalty program can do."
+      },
+      "table": {
+        "main": {
+          "a": "Without Loyalty",
+          "b": "Loyalty Attributed Sales"
+        },
+        "row1": {
+          "a": "Monthly",
+          "b": "income"
+        },
+        "row2": {
+          "a": "Monthly",
+          "b": "pricing"
+        },
+        "row3": {
+          "a": "Boost",
+          "b": "Reward",
+          "c": "and profits"
+        }
+      }
+    },
+    "sixthbanner": {
+      "main": "Pricing",
+      "sub": "You should only pay for a loyalty program when it’s working for you and your customers. With Square Loyalty, the monthly cost adjusts based on each location’s total loyalty visits per month.",
+      "card": {
+        "main": "loyalty visits",
+        "duration": "/ Month",
+        "botton": "Select Package"
+      }
+    },
+    "seventhbanner": {
+      "main": "More locations or visits",
+      "sub": "Our Sales team can help you simplify your operations and set you up with the right solution to meet your business needs",
+      "botton": "Contact Now"
+    }
+  },
+  "messages": {
+    "mainbanner": {
+      "header": "Connect with your customer through Prep Messages",
+      "sub": "Puts texts and emails between you and your customers in one place."
+    },
+    "getdirect": {
+      "header": "Get Direct Customer Feedback",
+      "sub": "Offer the best customer experience by replying to feedback. Keep customers’ messages, favorite products, and recent services at your fingertips—you have easy access to the details that help you build relationships."
+    },
+    "nevermiss": {
+      "header": "Never Miss a Sale",
+      "sub": "Prep Messages to send more details, an estimate and a “thank you” text right away. Always be ready to move quickly on opportunities."
+    },
+    "enhance": {
+      "header": "Enhance the power of chat. Turn browsers into buyers",
+      "sub": "Immediate responses from your store admin. Always prepared to reply any customer queries. Giving pleasant shopping experience."
+    },
+    "quickreplies": {
+      "header": "Quick replies with Prep Inbox",
+      "sub": {
+        "line1": "Add Prep inbox for free!",
+        "line2": "Save responses and use them to reply many customers at instant."
+      }
+    },
+    "spendless": {
+      "header": "Spend less time scheduling",
+      "sub": "digital messaging tool that reschedules, cancels, and confirms appointments for you, so you get time back.",
+      "bullets": {
+        "b1": "Real time monitoring",
+        "b2": "Fast Appointment",
+        "b3": "Reminders & Notifications",
+        "b4": "Notify Customers automatically"
+      }
+    },
+    "getstarted": {
+      "title": "Get Started, Contact your customers now",
+      "sub": "Begin your journey with prep messages",
+      "button": "get started"
+    }
+  },
+  "photography": {},
+  "domain": {
+    "firstbanner": {
+      "main": "Looking For Domain !",
+      "placeholder": "Find your perfect domain"
+    },
+    "secondbanner": {
+      "main": "somethingsomething.com is available !",
+      "duration": "/yr",
+      "a": "Add domain Privacy + Protection to each domain for 300 baht per year.",
+      "b": "What's this?",
+      "botton": "Add to cart",
+      "footer": "Domains include Basic Privacy Protection."
+    },
+    "thirdbanner": {
+      "leftcard": {
+        "main": "How about some of these great Domains :",
+        "a": {
+          "main": "testtest2.com",
+          "sub": "More Info",
+          "botton": "Add to cart"
+        },
+        "b": {
+          "main": "testtest2.com",
+          "sub": "More Info",
+          "botton": "Add to cart"
+        },
+        "c": {
+          "main": "testtest2.com",
+          "sub": "More Info",
+          "botton": "Add to cart"
+        },
+        "d": {
+          "main": "testtest2.com",
+          "sub": "More Info",
+          "botton": "Add to cart"
+        },
+        "e": {
+          "main": "testtest2.com",
+          "sub": "More Info",
+          "botton": "Add to cart"
+        },
+        "f": {
+          "main": "testtest2.com",
+          "sub": "More Info",
+          "botton": "Add to cart"
+        },
+        "g": {
+          "main": "testtest2.com",
+          "sub": "More Info",
+          "botton": "Add to cart"
+        }
+      },
+      "rightcard": {
+        "main": "Shopping Cart",
+        "body": {
+          "a": "Domain Purchase",
+          "b": "Privacy + Protection",
+          "c": "(1 Year)"
+        },
+        "footer": "TOTAL :",
+        "currency": "Baht",
+        "botton": "CHECK OUT"
+      }
+    },
+    "forthbanner": {
+      "a": {
+        "main": "Enormous selection",
+        "body": "Every time you enter a name in our domain search box, our powerful engine searches the web's largest pool of names. There's no better place to find the right domain name for your business."
+      },
+      "b": {
+        "main": "Enormous selection",
+        "body": "Every time you enter a name in our domain search box, our powerful engine searches the web's largest pool of names. There's no better place to find the right domain name for your business."
+      },
+      "c": {
+        "main": "Enormous selection",
+        "body": "Every time you enter a name in our domain search box, our powerful engine searches the web's largest pool of names. There's no better place to find the right domain name for your business."
+      }
+    }
+  },
+  "store-template": {
+    "firstbanner": {
+      "main": "Find the perfect theme for your online store",
+      "sub": "Prep Customize Website"
+    },
+    "secondbanner": {
+      "main": "Browse By Category",
+      "a": "Retail",
+      "b": "Restaurants",
+      "c": "Services",
+      "d": "Sports",
+      "e": "Beauty",
+      "botton": "Next"
+    },
+    "thirdbanner": {
+      "main": "Prep — more than a website builder template",
+      "body": "Start selling with Prep today. With our free website templates, you can easily create an engaging eCommerce destination–perfect for any business. Design your beautiful, professional, responsive website now.",
+      "botton": "GET STARTED"
+    }
+  },
+  "why": {
+    "firstbanner": {
+      "main": "Why Prep ?",
+      "sub": "Make every business Come alive"
+    },
+    "secondbanner": {
+      "main": "Here with Prep",
+      "body": "You'll meet your customers demand for inspiring shopping experiences. We offer all-rounded business tools to match every need in starting online sales."
+    },
+    "thirdbanner": {
+      "main": "You start, We help",
+      "body": "With our tools prep can provide flexible system that can help you run every type of business. Make all steps easy from beginning to end."
+    },
+    "forthbanner": {
+      "main": "Let's Start a New business together"
+    },
+    "fifthbanner": {
+      "main": "Learn how Prep can help you guide your business",
+      "input": "Enter your email",
+      "botton": "Get info now"
+    }
+  },
+  "pricing": {
+    "main": "Transparent Pricing",
+    "sub": "Borderless account pricing",
+    "card1": {
+      "main": "Free",
+      "sub": "No set-up cost or monthly fees",
+      "duration": "/ monthly",
+      "a": "Only 1 staff",
+      "b": "Online Store",
+      "c": "Unlimited Product",
+      "d": "Free SSL Certificate",
+      "e": "Print Shipping Label",
+      "f": "Sale Channels",
+      "g": "Manual Order Creation",
+      "h": "Fast and Reliable Checkout",
+      "i": "Professional Analysics",
+      "j": "Discount Code",
+      "k": "Marketing Campaign",
+      "l": "Delivery Pick up/Drop off",
+      "m": "Message Integration (Line,Facebook,Website)",
+      "n": "Requested Specific Applications",
+      "botton": "Choose this plan"
+    },
+    "card2": {
+      "main": "Starter",
+      "sub": "Get your business up and running",
+      "duration": "/ monthly",
+      "a": "Up to 3 staff",
+      "b": "Online Store",
+      "c": "Unlimited Product",
+      "d": "Free SSL Certificate",
+      "e": "Print Shipping Label",
+      "f": "Sale Channels",
+      "g": "Manual Order Creation",
+      "h": "Fast and Reliable Checkout",
+      "i": "Professional Analysics",
+      "j": "Discount Code",
+      "k": "Marketing Campaign",
+      "l": "Delivery Pick up/Drop off",
+      "m": "Message Integration (Line,Facebook,Website)",
+      "n": "Requested Specific Applications",
+      "botton": "Choose this plan"
+    },
+    "card3": {
+      "main": "Custom",
+      "sub": "Pay only what your business need",
+      "duration": "As request",
+      "a": "Staff as request",
+      "b": "Online Store",
+      "c": "Unlimited Product",
+      "d": "Free SSL Certificate",
+      "e": "Print Shipping Label",
+      "f": "Sale Channels",
+      "g": "Manual Order Creation",
+      "h": "Fast and Reliable Checkout",
+      "i": "Professional Analysics",
+      "j": "Discount Code",
+      "k": "Marketing Campaign",
+      "l": "Delivery Pick up/Drop off",
+      "m": "Message Integration (Line,Facebook,Website)",
+      "n": "Requested Specific Applications",
+      "botton": "Choose this plan"
+    }
+  },
+  "blog": {},
+  "forget-password": {
+    "title": "Forgot Password",
+    "sub": {
+      "a": "Already signed up?",
+      "b": "Log in"
+    },
+    "placeholder": "Your Email Address",
+    "button": "SUBMIT"
+  },
+  "change-password": {
+    "title": "Change Password",
+    "old_password": "Old Password",
+    "new_password": "New Password",
+    "confirm_password": "Confirm Password",
+    "button": "Change Password"
+  },
+  "contact": {
+    "a": {
+      "main": "Contact",
+      "sub": "if you have an idea, we would love to hear about it"
+    },
+    "b": {
+      "main": "Drop us a message for any query"
+    },
+    "c": {
+      "a": {
+        "main": "Address",
+        "sub": "58/22 Salaya Phuttamonthon Nakhonpathom"
+      },
+      "b": {
+        "main": "Email",
+        "sub": "prepofficial@prepth.com"
+      },
+      "c": {
+        "main": "Phone",
+        "sub": "095-416-5651"
+      }
+    },
+    "d": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Write your message...",
+      "button": "SEND MESSAGE"
+    }
+  },
+  "login": {
+    "welcome": "Welcome Back !",
+    "new": "New to PREP?",
+    "sign": "Sign up",
+    "email": "Your email address",
+    "password": "Your password",
+    "login": "LOGIN",
+    "forgot": "Forgot Password?",
+    "facebook": "Connect with Facebook",
+    "google": "Connect with Google",
+    "forget_password": "The Email Was Sent ! Check Your Email To Change New Password",
+    "change_password": "The Password Has Changed to The New Password ! Try to Log In"
+  },
+  "signup": {
+    "main": "Fast and Free — No initial fee or complication.",
+    "already": "Already signed up",
+    "login": "Log in",
+    "email": "Email Address",
+    "store": "Your Store Name",
+    "phone": "phone",
+    "password": "Password",
+    "confirm": "Confirm Password",
+    "marketing": "I agree to receive news, toturial contents, notifications and exclusive offers.",
+    "button": "SIGN UP",
+    "or": "OR",
+    "google": "Connect with Google",
+    "facebook": "Connect with Facebook"
+  }
+}
